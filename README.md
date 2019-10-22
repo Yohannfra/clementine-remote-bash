@@ -4,8 +4,6 @@ Bash script for remote control of clementine music player
 ## About Clementine Remote Bash
 clementine-remote enables you to remote control Clementine from a bash terminal on the same computer clementine is running on. This is useful for automation tasks.
 
-(first idea for the script was to remote control clementine over the network. But this needs more investigation in the protocol buffer on command line. So for this time now we control with dbus-commands.)
-
 ## Installation
 #### Prerequisites
    * qdbus
