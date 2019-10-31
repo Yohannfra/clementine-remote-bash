@@ -47,7 +47,7 @@ bindsym $mod+Insert exec --no-startup-id clementine-remote -c next
 ```
 
 I also use it to display the name of the song currently playing in my i3status bar.
-https://github.com/Yohannfra/dotfiles/blob/master/i3/my_status
+https://github.com/Yohannfra/dotfiles/blob/master/i3/my_new_status
 
 
 ## Useful links and background info
